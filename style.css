@@ -1,3 +1,8 @@
+:root {
+  --bg: hsl(0 0 10%);
+  --text: hsl(0 0 95%);
+}
+
 body, html {
   margin: 0;
   padding: 0;
